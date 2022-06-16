@@ -1,0 +1,162 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 251, 0);
+    font-size: 20px;
+}
+
+.eart {
+    transition: 1s;
+}
+
+.eart:hover {
+    transform: scale(1.2);
+}
+
+.eart {
+    float: left;
+    margin: 100px 100px 250px 450px;
+}
+
+.sun {
+    transition: 1s;
+}
+
+.sun:hover {
+    transform: scale(1.2);
+}
+
+.sun {
+    float: left;
+    margin: 100px 100px 250px -800px;
+}
+
+.mer {
+    transition: 1s;
+}
+
+.mer:hover {
+    transform: scale(1.2);
+}
+
+.mer {
+    float: left;
+    margin: 350px 100px 250px -425px;
+}
+
+.ven {
+    transition: 1s;
+}
+
+.ven:hover {
+    transform: scale(1.2);
+}
+
+.ven {
+    float: left;
+    margin: 0px 50px 50px -350px;
+}
+
+.mar {
+    transition: 1s;
+}
+
+.mar:hover {
+    transform: scale(1.2);
+}
+
+.mar {
+    float: left;
+    margin: 250px 50px 50px -10px;
+}
+
+.upi {
+    transition: 1s;
+}
+
+.upi:hover {
+    transform: scale(1.2);
+}
+
+.upi {
+    float: left;
+    margin: 0px 50px 50px 40px;
+}
+
+.sat {
+    transition: 1s;
+}
+
+.sat:hover {
+    transform: scale(1.2);
+}
+
+.sat {
+    float: left;
+    margin: 0px 50px 50px 60px;
+}
+
+.ura {
+    transition: 1s;
+}
+
+.ura:hover {
+    transform: scale(1.2);
+}
+
+.ura {
+    float: left;
+    margin: -10px 50px 50px 355px;
+}
+
+.nep {
+    transition: 1s;
+}
+
+.nep:hover {
+    transform: scale(1.2);
+}
+
+.nep {
+    float: left;
+    margin: -400px 50px 50px 0px;
+}
+
+.back-pop-up {
+    position: absolute;
+    background-color: rgb(16, 3, 66);
+    width: 500px;
+    left: 30%;
+    top: 15%;
+    box-shadow: 3px 3px rgb(0, 183, 255), -1em 0 0.4em blue;
+    border-radius: 15px;
+    padding: 0px 15px;
+}
+
+.close {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
+.crest {
+    transition: 1s;
+}
+
+.crest:hover {
+    transform: scale(1.2);
+}
+
+.ars {
+    transition: 1s;
+}
+
+.ars:hover {
+    transform: scale(1.2);
+}
+
+.ars {
+    float: left;
+    margin: 0px 60px 70px 60px;
+}
